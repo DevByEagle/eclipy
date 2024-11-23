@@ -1,0 +1,3 @@
+import eclipy
+
+eclipy.InvalidArgumentError()
