@@ -1,2 +1,2 @@
-# exclude tests/*
-exclude docs/*
+exclude .git/*
+exclude test_eclipy.py
