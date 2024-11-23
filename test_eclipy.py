@@ -1,3 +1,3 @@
 import eclipy
 
-eclipy.InvalidArgumentError()
+raise eclipy.InvalidArgumentError()
