@@ -1,3 +1,4 @@
-import eclipy
+import eclipy as ec
 
-print(eclipy.power(2, 3))
+print(dir(ec))
+help(ec)

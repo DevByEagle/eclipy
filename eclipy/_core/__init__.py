@@ -2,8 +2,6 @@
 Contains the core of eclipy
 """
 
-from . import numeric
-from .numeric import *
+from .numeric import power
 
-__all__ = []
-__all__ += numeric.__all__
+__all__ = ["power"]
