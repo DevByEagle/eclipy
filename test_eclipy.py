@@ -1,3 +1,3 @@
 import eclipy
 
-raise eclipy.InvalidArgumentError()
+print(eclipy.power(2, 3))
