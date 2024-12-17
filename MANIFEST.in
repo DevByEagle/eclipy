@@ -1,1 +1,2 @@
 exclude .git/*
+exclude test_eclipy.py
