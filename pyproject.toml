@@ -18,7 +18,7 @@ tracker = "https://github.com/DevByeagle/eclipy/issues"
 [tool.scikit-build.cmake]
 build-type = "Release"
 generate = "Ninja"  # or "Unix Makefiles" for other systems
-build-dir = "build"  # Customize as needed
+build-type = "build"  # Customize as needed
 
 #[tool.cmake]
 
